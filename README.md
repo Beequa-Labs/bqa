@@ -15,7 +15,7 @@ curl -fsSL https://github.com/Beequa-Labs/bqa/releases/latest/download/install.s
 Lo deja en `~/.local/bin/bqa`. Si esa carpeta no está en tu `PATH`, el
 instalador te lo dice.
 
-**Windows** (x64), en PowerShell:
+**Windows** (x64 y arm64), en PowerShell:
 
 ```powershell
 irm https://github.com/Beequa-Labs/bqa/releases/latest/download/install.ps1 | iex
